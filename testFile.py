@@ -8,5 +8,3 @@ TotOrdenat=sorted(Tot)
 print(TotOrdenat)
 
 fid1.close()
-
-deleteme
